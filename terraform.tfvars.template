@@ -1,0 +1,3 @@
+access_key = "YOUR AWS ACCOUNT ACCESS KEY"	# Your AWS account access key
+secret_key = "YOUR AWS ACCOUNT SECRET KEY"	# Your AWS account secret key
+
