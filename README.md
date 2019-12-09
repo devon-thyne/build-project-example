@@ -1,5 +1,5 @@
-Build Project Example Module
-============================
+Terraform Project Example Module
+================================
 
 This space includes Terraform code to setup and configure an example Terraform project. This is done fully declarative and aids in the process of generating a fresh VPC along with all resources needed to support it.
 
